@@ -51,9 +51,11 @@ python app.py
 
 ### Frontend Setup (React)
 
+```
 cd ReactApp
 npm install
 npm start
+````
 
 By default:
 
