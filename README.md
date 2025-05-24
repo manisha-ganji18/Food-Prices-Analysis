@@ -1,5 +1,5 @@
 # 🌍 Food Prices Analyzer
-Food Prices Analyzer is a web application that analyzes global food price trends, imports, and exports through interactive data visualizations. Developed with a React-based front-end and a Flask-powered back-end, the application integrates datasets from sources like Kaggle to provide meaningful insights into food economics. It enables users to explore commodity-wise and country-specific patterns in pricing and trade, with a focus on clarity, usability, and responsiveness.
+Food Prices Analyzer is a full-stack web application that visualizes global food price trends based on imports, exports, temperature, and climate factors. Built with React and Flask, it offers interactive charts to explore commodity and country-wise pricing patterns. The platform uses datasets from sources like Kaggle to uncover key insights in food prices.
 
 ---
 
