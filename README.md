@@ -22,7 +22,7 @@ Food Prices Analyzer is a web application that analyzes global food price trends
 ---
 
 ## Project Structure
-
+```
 Food-Prices-Analyzer/
 ├── Flask/                   # Flask backend and virtual environment
 │   ├── FlaskEnv/            # Virtual environment
@@ -35,7 +35,7 @@ Food-Prices-Analyzer/
 │
 ├── datasets/                # Cleaned CSV files for analysis
 └── README.md
-
+````
 
 ##  Getting Started
 
